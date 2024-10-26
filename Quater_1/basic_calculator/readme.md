@@ -35,8 +35,8 @@ else:
     
 ```
 ## Output:
-Enter the first number: 2
-Enter the second number: 4
-Enter an operator (+, -, *, /): *
-The product of 2.0 and 4.0 is 8.0
+Enter the first number: 2  
+Enter the second number: 4  
+Enter an operator (+, -, *, /): *  
+The product of 2.0 and 4.0 is 8.0  
 
