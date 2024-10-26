@@ -1,6 +1,6 @@
-<div align="center">
-    <h1>Basic Calculator</h1>
-</div>
+    <div align = "center">
+# Basic Calculator
+    </div>
+## step1:
+First we will take data in **var1** & **var2** variable using **input** funtion  and specified there data type with **float** keyword 
 
-## Step 1:
-First, we will take data in **var1** & **var2** variables using the **`input`** function and specify their data type with the **`float`** keyword.
